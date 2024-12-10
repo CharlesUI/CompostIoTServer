@@ -1,0 +1,137 @@
+[
+    {
+        "brand": "Toyota Fortuner",
+        "pricePerHour": "₱ 2,500 per hour",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "4 Units Avaiable",
+        "modelYear": "2015 model",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car1.jpg"
+    },
+    {
+        "brand": "Toyota Revo",
+        "pricePerHour": "₱ 1,000 per hour",
+        "passengerCapacity": "10 passengerCapacity",
+        "unitsAvailable": "2 Units Avaiable",
+        "modelYear": "2003 model",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car1.jpg"
+    },
+    {
+        "brand": "Toyota Alphard",
+        "pricePerHour": "₱ 3,500 per hour",
+        "passengerCapacity": "5 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "2024 model",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car1.jpg"
+    },
+    {
+        "brand": "Mitsubishi Xpander Cross",
+        "pricePerDay": "₱ 2,000 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "2024 model",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car2.jpg"
+    },
+    {
+        "brand": "Mitsubishi Pajero 2023",
+        "pricePerDay": "₱ 2,000 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "2024 model",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car2.jpg"
+    },
+    {
+        "brand": "Mitsubishi Outlander PHEV ",
+        "pricePerDay": "₱ 1,000 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "model 2022",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car1.jpg"
+    },
+    {
+        "brand": "Nissan Terra ",
+        "pricePerDay": "₱ 2,000 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "model 2024",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car3.jpg"
+    },
+    {
+        "brand": "Nissan Armada’s ",
+        "pricePerDay": "₱ 1,000 per day",
+        "passengerCapacity": "8 passengerCapacity",
+        "unitsAvailable": "2 Units Avaiable",
+        "modelYear": "model 2017",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car2.jpg"
+    },
+    {
+        "brand": "Nissan NV350 Urvan ",
+        "pricePerDay": "₱ 2,500 per day",
+        "passengerCapacity": "18 passengerCapacity",
+        "unitsAvailable": "5 Units Avaiable",
+        "modelYear": "model 2015",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car1.jpg"
+    },
+    {
+        "brand": "Honda CR-V",
+        "pricePerDay": "₱ 1,500 per day",
+        "passengerCapacity": "5 passengerCapacity",
+        "unitsAvailable": "3 Units Avaiable",
+        "modelYear": "model 2024",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car3.jpg"
+    },
+    {
+        "brand": "Honda Accord",
+        "pricePerDay": "₱ 1,000 per day",
+        "passengerCapacity": "5 passengerCapacity",
+        "unitsAvailable": "2 Units Avaiable",
+        "modelYear": "model 2021",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car3.jpg"
+    },
+    {
+        "brand": "Honda Brio",
+        "pricePerDay": "₱ 1,000 per day ",
+        "passengerCapacity": "4 passengerCapacity",
+        "unitsAvailable": "5 Units Avaiable",
+        "modelYear": "model 2001",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car3.jpg"
+    },
+    {
+        "brand": "Ford Everest Titanium  Suv",
+        "pricePerDay": "₱ 2,400 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "5 Units Avaiable",
+        "modelYear": "model 2022",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car2.jpg"
+    },
+    {
+        "brand": "Ford Explorer",
+        "pricePerDay": "₱ 1,500 per day",
+        "passengerCapacity": "7 passengerCapacity",
+        "unitsAvailable": "5 Units Avaiable",
+        "modelYear": "model 2022",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car3.jpg"
+    },
+    {
+        "brand": "Ford Expedition",
+        "pricePerDay": "₱ 3,000 per day",
+        "passengerCapacity": "8 passengerCapacity",
+        "unitsAvailable": "5 Units Avaiable",
+        "modelYear": "model 2019",
+        "captainSeat": "2 captainSeats",
+        "image": "/images/car2.jpg"
+    }
+]
